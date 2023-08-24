@@ -22,7 +22,7 @@ O front-end da aplicação será desenvolvido futuramente para complementar o pr
 
 ## 📄 Documentação
 
-A documentação da API pode ser vista através do Swagger no link http://localhost:8080/swagger-ui/index.html
+A documentação da API pode ser vista através do Swagger no link http://localhost:8080/swagger-ui/index.html e o json completo da API através do link http://localhost:8080/v3/api-docs.
 
 ---
 
